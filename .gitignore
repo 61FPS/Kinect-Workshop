@@ -1,0 +1,17 @@
+# TOUCHDESIGNER
+/touchdesigner/Backup/
+/touchdesigner/main.*.toe
+.vscode/
+__pycache__
+/touchdesigner/logs/*.log
+/touchdesigner/logs/*.txt
+/touchdesigner/telemetry/
+
+# TD BUILD 
+/td_build/
+
+# LOCAL MEDIAS
+**/LOCAL_MEDIAS/*.png
+
+# PLAYLIST
+ASSETS/*.json
